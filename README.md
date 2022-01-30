@@ -1,5 +1,5 @@
 <h1>Discord Dictionary Bot</h1>
-<p>This is an Discord Bot created using discord.py. It uses <a href="https://dictionaryapi.dev/" title="Free Dictionary API">this dictionary API</a> to allow the user to query the definition and synonyms of english words.</p>
+<p>This is a Discord Bot created using discord.py. It uses <a href="https://dictionaryapi.dev/" title="Free Dictionary API">this dictionary API</a> to allow the user to query the definition and synonyms of english words.</p>
 <h2>Usage</h2>
 <ul>
   <li>Insert your bot's token in bot.py and run.</li>
